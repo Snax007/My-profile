@@ -20,9 +20,10 @@ I'm an aspiring developer with a strong foundation in **C programming**, **HTML*
 
 ### 🌱 Currently Learning
 
-- JavaScript (DOM, ES6+)
-- Responsive Design
+- C++
+- Data Structures
 - Git & GitHub
+- Cloud
 
 ---
 
